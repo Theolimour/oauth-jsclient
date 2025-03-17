@@ -1,159 +1,295 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <link rel="apple-touch-icon icon shortcut" type="image/png" href="https://plugin.intuitcdn.net/sbg-web-shell-ui/6.3.0/shell/harmony/images/QBOlogo.png">
+  <head>
+    <link
+      rel="apple-touch-icon icon shortcut"
+      type="image/png"
+      href="https://plugin.intuitcdn.net/sbg-web-shell-ui/6.3.0/shell/harmony/images/QBOlogo.png"
+    />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="./css/common.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-</head>
-<body>
-
-<div class="container">
-
-    <h1>
+    <link
+      rel="stylesheet"
+      href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css"
+    />
+    <link rel="stylesheet" href="./css/common.css" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>
         <a href="http://developer.intuit.com">
-            <img src="./images/quickbooks_logo_horz.png" id="headerLogo">
+          <img src="./images/quickbooks_logo_horz.png" id="headerLogo" />
         </a>
-    </h1>
-    <hr>
-    <div class="well text-center">
+      </h1>
+      <hr />
+      <div class="well text-center">
         <h1>intuit-nodejsclient sample application</h1>
-        <br>
-    </div>
-    <h2>OAuth2.0</h2><h4>( Please enter the client credentials below )</h4><br>
-    <form>
+        <br />
+      </div>
+      <h2>OAuth2.0</h2>
+      <h4>( Please enter the client credentials below )</h4>
+      <br />
+      <form>
         <div class="form-group">
-            <label for="clientId">ClientID</label>
-            <input type="text" class="form-control" placeholder="enter the clientId"  id="clientId" />
+          <label for="clientId">ClientID</label>
+          <input type="text" class="form-control" placeholder="enter the clientId" id="clientId" />
         </div>
         <div class="form-group">
-            <label for="clientSecret">ClientSecret</label>
-            <input type="text"  class="form-control" placeholder="enter the clientSecret"  id="clientSecret" />
+          <label for="clientSecret">ClientSecret</label>
+          <input
+            type="text"
+            class="form-control"
+            placeholder="enter the clientSecret"
+            id="clientSecret"
+          />
         </div>
         <div class="form-group">
-            <label for="environment">Environment</label>
-            <select id="environment" class="form-control">
+          <label for="environment">Environment</label>
+          <select id="environment" class="form-control">
             <option value="sandbox" selected="selected">Sandbox</option>
             <option value="production">Production</option>
-            </select>
+          </select>
         </div>
         <div class="form-group">
-            <label for="redirectUri">Redirect URI</label>
-            <input type="text" class="form-control" placeholder="enter the redirectUri"  id="redirectUri" /><br>
+          <label for="redirectUri">Redirect URI</label>
+          <input
+            type="text"
+            class="form-control"
+            placeholder="enter the redirectUri"
+            id="redirectUri"
+          /><br />
         </div>
-    </form>
-    <p>Now click the <b>Connect to QuickBooks</b> button below.</p>
-    <pre id="accessToken"></pre>
-    <a class="imgLink" href="#" id="authorizeUri" ><img src="./images/C2QB_green_btn_lg_default.png" width="178" /></a>
-    <button  type="button" id="retrieveToken" class="btn btn-success">Display Access Token</button>
-    <button  type="button" id="refreshToken" class="btn btn-success">Refresh Token</button>
-    <hr />
+      </form>
+      <p>Now click the <b>Connect to QuickBooks</b> button below.</p>
+      <pre id="accessToken"></pre>
+      <a class="imgLink" href="#" id="authorizeUri"
+        ><img src="./images/C2QB_green_btn_lg_default.png" width="178"
+      /></a>
+      <button type="button" id="retrieveToken" class="btn btn-success">Display Access Token</button>
+      <button type="button" id="refreshToken" class="btn btn-success">Refresh Token</button>
+      <hr />
 
-    <h2>Make an API call</h2><h4>( Please refer to our <a target="_balnk" href="https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO#?id=Account">API Explorer</a> )</h4>
-    <p>If there is no access token or the access token is invalid, click either the <b>Connect to QucikBooks</b> or <b>Sign with Intuit</b> button above.</p>
-    <pre id="apiCall"></pre>
-    <button  type="button" id="makeAPICall" class="btn btn-success">Get Company Info</button>
+      <h2>Make an API call</h2>
+      <h4>
+        ( Please refer to our
+        <a
+          target="_balnk"
+          href="https://developer.intuit.com/v2/apiexplorer?apiname=V3QBO#?id=Account"
+          >API Explorer</a
+        >
+        )
+      </h4>
+      <p>
+        If there is no access token or the access token is invalid, click either the
+        <b>Connect to QucikBooks</b> or <b>Sign with Intuit</b> button above.
+      </p>
+      <pre id="apiCall"></pre>
+      <button type="button" id="makeAPICall" class="btn btn-success">Get Company Info</button>
 
-    <hr />
+      <hr />
 
-    <p>More info:</p>
-    <ul>
+      <h2>Generate General Ledger Report</h2>
+      <form id="generalLedgerForm">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="form-group">
+              <label for="start_date">Start Date</label>
+              <input type="date" class="form-control" id="start_date" name="start_date" />
+            </div>
+            <div class="form-group">
+              <label for="end_date">End Date</label>
+              <input type="date" class="form-control" id="end_date" name="end_date" />
+            </div>
+            <div class="form-group">
+              <label for="accounting_method">Accounting Method</label>
+              <select class="form-control" id="accounting_method" name="accounting_method">
+                <option value="">Select Method</option>
+                <option value="Cash">Cash</option>
+                <option value="Accrual">Accrual</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="date_macro">Date Macro</label>
+              <select class="form-control" id="date_macro" name="date_macro">
+                <option value="">Select Period</option>
+                <option value="Today">Today</option>
+                <option value="Yesterday">Yesterday</option>
+                <option value="This Week">This Week</option>
+                <option value="Last Week">Last Week</option>
+                <option value="This Month">This Month</option>
+                <option value="Last Month">Last Month</option>
+                <option value="This Fiscal Quarter">This Fiscal Quarter</option>
+                <option value="Last Fiscal Quarter">Last Fiscal Quarter</option>
+                <option value="This Fiscal Year">This Fiscal Year</option>
+                <option value="Last Fiscal Year">Last Fiscal Year</option>
+              </select>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <label for="columns">Columns (comma-separated)</label>
+              <input
+                type="text"
+                class="form-control"
+                id="columns"
+                name="columns"
+                placeholder="e.g., account_name,tx_date,memo"
+              />
+            </div>
+            <div class="form-group">
+              <label for="sort_by">Sort By</label>
+              <input type="text" class="form-control" id="sort_by" name="sort_by" />
+            </div>
+            <div class="form-group">
+              <label for="sort_order">Sort Order</label>
+              <select class="form-control" id="sort_order" name="sort_order">
+                <option value="">Select Order</option>
+                <option value="ascend">Ascending</option>
+                <option value="descend">Descending</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <button type="button" id="generateReport" class="btn btn-success">Generate Report</button>
+      </form>
+      <pre id="reportResult"></pre>
+
+      <hr />
+
+      <p>More info:</p>
+      <ul>
         <li><a href="https://developer.intuit.com/docs">Intuit API Developer Guide</a></li>
-        <li><a href="https://developer.intuit.com/docs/00_quickbooks_online/2_build/50_sample_apps_and_code">Intuit Sample Apps and Code</a></li>
-        <li><a href="https://developer.intuit.com/docs/00_quickbooks_online/2_build/40_sdks">Intuit Official SDK's</a></li>
-    </ul>
-    <hr>
-    <p class="text-center text-muted">
-        &copy; 2018 Intuit&trade;, Inc. All rights reserved. Intuit and QuickBooks are registered trademarks of Intuit Inc.
-    </p>
+        <li>
+          <a
+            href="https://developer.intuit.com/docs/00_quickbooks_online/2_build/50_sample_apps_and_code"
+            >Intuit Sample Apps and Code</a
+          >
+        </li>
+        <li>
+          <a href="https://developer.intuit.com/docs/00_quickbooks_online/2_build/40_sdks"
+            >Intuit Official SDK's</a
+          >
+        </li>
+      </ul>
+      <hr />
+      <p class="text-center text-muted">
+        &copy; 2018 Intuit&trade;, Inc. All rights reserved. Intuit and QuickBooks are registered
+        trademarks of Intuit Inc.
+      </p>
+    </div>
 
-</div>
-
-<script type="text/javascript">
-    (function() {
-
+    <script type="text/javascript">
+      (function () {
         function authorizeUri() {
+          // Generate the authUri
+          var jsonBody = {};
+          jsonBody.clientId = $('#clientId').val();
+          jsonBody.clientSecret = $('#clientSecret').val();
+          jsonBody.environment = $('#environment').val();
+          jsonBody.redirectUri = $('#redirectUri').val();
 
-            // Generate the authUri
-            var jsonBody = {};
-            jsonBody.clientId = $('#clientId').val();
-            jsonBody.clientSecret = $('#clientSecret').val();
-            jsonBody.environment = $('#environment').val();
-            jsonBody.redirectUri = $('#redirectUri').val();
-
-            $.get('/authUri', {json:jsonBody}, function (uri) {
-                console.log('The Auth Uris is :'+uri);
-            })
-            .then(function (authUri) {
-                // Launch Popup using the JS window Object
-                var parameters = "location=1,width=800,height=650";
-                parameters += ",left=" + (screen.width - 800) / 2 + ",top=" + (screen.height - 650) / 2;
-                var win = window.open(authUri, 'connectPopup', parameters);
-                var pollOAuth = window.setInterval(function () {
-                    try {
-                        if (win.document.URL.indexOf("code") != -1) {
-                            window.clearInterval(pollOAuth);
-                            win.close();
-                            location.reload();
-                        }
-                    } catch (e) {
-                        console.log(e)
-                    }
-                }, 100);
-            });
+          $.get('/authUri', { json: jsonBody }, function (uri) {
+            console.log('The Auth Uris is :' + uri);
+          }).then(function (authUri) {
+            // Launch Popup using the JS window Object
+            var parameters = 'location=1,width=800,height=650';
+            parameters += ',left=' + (screen.width - 800) / 2 + ',top=' + (screen.height - 650) / 2;
+            var win = window.open(authUri, 'connectPopup', parameters);
+            var pollOAuth = window.setInterval(function () {
+              try {
+                if (win.document.URL.indexOf('code') != -1) {
+                  window.clearInterval(pollOAuth);
+                  win.close();
+                  location.reload();
+                }
+              } catch (e) {
+                console.log(e);
+              }
+            }, 100);
+          });
         }
 
         function retrieveToken() {
-
-            // Generate the authUri
-            $.get('/retrieveToken', function (token) {
-                var token = (token!=null) ? token : 'Please Authorize Using Connect to Quickbooks first !';
-                $("#accessToken").html(token);
-            });
+          // Generate the authUri
+          $.get('/retrieveToken', function (token) {
+            var token =
+              token != null ? token : 'Please Authorize Using Connect to Quickbooks first !';
+            $('#accessToken').html(token);
+          });
         }
 
         function refreshToken() {
-
-            // Generate the authUri
-            $.get('/refreshAccessToken', function (token) {
-                var token = (token!=null) ? token : 'Please Authorize Using Connect to Quickbooks first !';
-                $("#accessToken").html(token);
-            });
+          // Generate the authUri
+          $.get('/refreshAccessToken', function (token) {
+            var token =
+              token != null ? token : 'Please Authorize Using Connect to Quickbooks first !';
+            $('#accessToken').html(token);
+          });
         }
 
         function makeAPICall() {
+          // Generate the authUri
+          $.get('/getCompanyInfo', function (response) {
+            $('#apiCall').html(JSON.stringify(response, null, 4));
+          });
+        }
 
-            // Generate the authUri
-            $.get('/getCompanyInfo', function (response) {
-                $("#apiCall").html(JSON.stringify(response, null, 4));
-            });
+        function generateGeneralLedger() {
+          // Get all form values
+          const formData = {};
+          const form = document.getElementById('generalLedgerForm');
+          const formElements = form.elements;
+
+          // Build query parameters
+          for (let element of formElements) {
+            if (element.name && element.value) {
+              formData[element.name] = element.value;
+            }
+          }
+
+          // Make API call with query parameters
+          const queryString = new URLSearchParams(formData).toString();
+          $.get('/getGeneralLedger?' + queryString, function (response) {
+            $('#reportResult').html(JSON.stringify(response, null, 4));
+          }).fail(function (error) {
+            $('#reportResult').html('Error generating report: ' + JSON.stringify(error, null, 4));
+          });
         }
 
         document.getElementById('authorizeUri').addEventListener('click', function response(e) {
-            e.preventDefault();
-            authorizeUri();
+          e.preventDefault();
+          authorizeUri();
         });
 
         document.getElementById('retrieveToken').addEventListener('click', function response(e) {
-            e.preventDefault();
-            retrieveToken();
+          e.preventDefault();
+          retrieveToken();
         });
 
         document.getElementById('refreshToken').addEventListener('click', function response(e) {
-            e.preventDefault();
-            refreshToken();
+          e.preventDefault();
+          refreshToken();
         });
 
         document.getElementById('makeAPICall').addEventListener('click', function response(e) {
-            e.preventDefault();
-            makeAPICall();
+          e.preventDefault();
+          makeAPICall();
         });
 
-    })();
-</script>
-</body>
+        document.getElementById('generateReport').addEventListener('click', function response(e) {
+          e.preventDefault();
+          generateGeneralLedger();
+        });
+      })();
+    </script>
+  </body>
 </html>

@@ -1,0 +1,3384 @@
+2025-03-16T18:26:21.898Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=AByk8dTU59ZIOZy6kTqwdwJLTDZ0n1tQtzPWkBzavOHMmn1c0D&redirect_uri=&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-16T18:27:19.351Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=AByk8dTU59ZIOZy6kTqwdwJLTDZ0n1tQtzPWkBzavOHMmn1c0D&redirect_uri=&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-16T18:27:47.393Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=AByk8dTU59ZIOZy6kTqwdwJLTDZ0n1tQtzPWkBzavOHMmn1c0D&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fcallback&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-16T18:28:07.411Z info: Create Token response is : {
+  "id_token": "eyJraWQiOiJPUElDUFJEMDUxMDIwMjMiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMDcwMWU1NC1mMzgwLTNiZTctYTQ5ZC0xZjc2MzA1NWE2NDIiLCJhdWQiOlsiQUJ5azhkVFU1OVpJT1p5NmtUcXdkd0pMVERaMG4xdFF0elBXa0J6YXZPSE1tbjFjMEQiXSwicmVhbG1pZCI6IjkzNDE0NTIzNDExNTcxMDQiLCJhdXRoX3RpbWUiOjE3NDIxNDczNTEsImlzcyI6Imh0dHBzOlwvXC9vYXV0aC5wbGF0Zm9ybS5pbnR1aXQuY29tXC9vcFwvdjEiLCJleHAiOjE3NDIxNTMyODksImlhdCI6MTc0MjE0OTY4OX0.ZEMEnQ4G_5jfGojnuxhS6p4xDMAY28rXGfDZaovxAOxpc7H2O82xX-nIMkgGJyK5mKK-GaTgH5Qmr5Dbz5b4l5UtMEq-tD21Vw9eY19IMb9KocNjzwCLX8HuvzKwWhRcJAYe1HURvJH3pygML8NUbxd8FCZnGgKBH6B8rTzZZxlBttZjtclSy7T7ONXeae2TdsAQolL4h1nWZV-52tl2kgat_Ppr7GvFEgMs4ntl38SCwtGIGJwk2kVVhN-Pmdoo7AF_LlGk0LLF_oNsz4zE3qAN7tiK7aoNdW_U6E5rgFNZLAANUmtVTanQ67Dhrko2wsIoed0DorQ6lfnuKDPlQQ",
+  "expires_in": 3600,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..ejKSGBa2-EISxybpQuuXmw.DBtUFgftWYGNlEQIGewNMmrDPmMSXJbxtF0AURaKRegbXok1VIxR4pXaUxYdJmTgDtTW9DygRfCVa4Y7MhZbh1kfru5r0ICvpmnfeJH6uX_jZb-i88QyOYEGnXwXPM0y4QsFKOm_b_I2b-9N284ND3sEyrD0_4BL33R8ywEpzjR9NTP6U8nibfjzyuRt259kKw9R8dZ33QZY3k7zjIFy01XNej1Kxj7sFWGuZpB3kHPtHRiNMucroD9boKSicS1tH3TpBtKHV_VjsvMxKmtsjNcs16FlTdPLW67zv2yt1wlLYICq8tUZuEOBFDYvCqfiFwC1nTb_LkgJ8M9pc1Gi-URzkSfyE8FANzRjVR4lO7UAxpiNJWZbWpBq80_sHHpo6Ikzma_X3djsqO7aiQ9PVVidDzqibWcGnntr1LkItqh_9nmcPLCyYRTpgRzpLLJHZlInyFlLEA_SWXC6VqOIRVjHvakVlFbN_ljzGDtKKoy19Ty6TvUuV1M4Q0RWGk0Tyq5mgOqPb6wv0opwrOgs6LsvCXFjQu9-8ghe9A_mZ7WJfaRNKwI-lVqpZIh11n2EX82nMi3ychK-F5kPjc8dVTQ-8iS0RDXvh_c3omGIQ5XkgQn2w73uCKTnEMF_Pk8tpJgd5CuoistKrzi0C_vUowENxKkLI8QlNa3xlponifTELlsEi3sNeQOyL1ZSyCLcIv0FVJyYL-JQcL0N5pjJ-DNesGK_Omqf0Gm-b4Q9lVwSEFTAN0hGxlMpvP0taqOQUauWKstrud2MgG6zLfu91gFYxyAvuH6vPnDyL-S7EdiY6dTWPPuP0hgoMExJgONSdaOn7-A3y9_Wm8VOKCtO1u0qilX-BBOPHm8q55AGzI4.kK8vVAa4al71fsbGCQAKcA",
+  "refresh_token": "AB11750876089COvy9WrNn9bqs8BM391tEul7vKPKt26R7xo2P",
+  "x_refresh_token_expires_in": 8726400
+}
+2025-03-16T18:28:27.757Z info: The makeAPICall () response is : {
+  "CompanyInfo": {
+    "CompanyName": "Sandbox Company_US_1",
+    "LegalName": "Sandbox Company_US_1",
+    "CompanyAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "LegalAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationEmailAddr": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "4081234567"
+    },
+    "CompanyStartDate": "2024-05-20",
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "Email": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "WebAddr": {},
+    "SupportedLanguages": "en",
+    "DefaultTimeZone": "America/Los_Angeles",
+    "NameValue": [
+      {
+        "Name": "NeoEnabled",
+        "Value": "true"
+      },
+      {
+        "Name": "NonTracking",
+        "Value": "false"
+      },
+      {
+        "Name": "IsQbdtMigrated",
+        "Value": "false"
+      },
+      {
+        "Name": "CompanyType",
+        "Value": "Other"
+      },
+      {
+        "Name": "SubscriptionStatus",
+        "Value": "SUBSCRIBED"
+      },
+      {
+        "Name": "OfferingSku",
+        "Value": "QuickBooks Online Plus"
+      },
+      {
+        "Name": "PayrollFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "AccountantFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "QBOIndustryType",
+        "Value": "Landscaping Services"
+      },
+      {
+        "Name": "ItemCategoriesFeature",
+        "Value": "true"
+      },
+      {
+        "Name": "AssignedTime",
+        "Value": "2024-05-20T08:22:29-07:00"
+      }
+    ],
+    "domain": "QBO",
+    "sparse": false,
+    "Id": "1",
+    "SyncToken": "8",
+    "MetaData": {
+      "CreateTime": "2024-05-20T07:22:28-07:00",
+      "LastUpdatedTime": "2024-05-20T08:21:39-07:00"
+    }
+  },
+  "time": "2025-03-16T11:28:29.690-07:00"
+}
+2025-03-16T18:35:53.843Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=AByk8dTU59ZIOZy6kTqwdwJLTDZ0n1tQtzPWkBzavOHMmn1c0D&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fcallback&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-16T18:36:04.668Z info: Create Token response is : {
+  "expires_in": 3600,
+  "x_refresh_token_expires_in": 8726400,
+  "id_token": "eyJraWQiOiJPUElDUFJEMDUxMDIwMjMiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMDcwMWU1NC1mMzgwLTNiZTctYTQ5ZC0xZjc2MzA1NWE2NDIiLCJhdWQiOlsiQUJ5azhkVFU1OVpJT1p5NmtUcXdkd0pMVERaMG4xdFF0elBXa0J6YXZPSE1tbjFjMEQiXSwicmVhbG1pZCI6IjkzNDE0NTIzNDExNTcxMDQiLCJhdXRoX3RpbWUiOjE3NDIxNDczNTEsImlzcyI6Imh0dHBzOlwvXC9vYXV0aC5wbGF0Zm9ybS5pbnR1aXQuY29tXC9vcFwvdjEiLCJleHAiOjE3NDIxNTM3NjYsImlhdCI6MTc0MjE1MDE2Nn0.dhcT6LfyZcl0EiVAH9jAzTB4JfOiK6h5aN0M9BzVC6r_KUOBqBwxjGK_0KiJcpJzpFJjOWQVxuca3md0NhpWU81p8ia6nRcXVNKiQNw1zrUp6P_bcvggBHd8wdjKbKn-VFxS73H74F6-3aJFZC3ImHXFaFhmPhlHHcUSCw4wNrmz4xvaX9p6gUbvVVF6xMK2lZv1XRib7Y3b6VZzJc47WE1E4bwHnE3f4wMv4hkW44An8DiCcsBLtbbR815BFFhWIc2UlerdToxFS8LOwwCt8LjgRQMze2x7srgtatcVaxt_HVlVmzr-zipwqtNXKCFfUI6vlL3FP3pGJ7H4nbZO-g",
+  "refresh_token": "AB11750876566LtuaQ90kLmqtWeCoVUO5RlrnLv32SiekVKcG8",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..IT-bXYK50hiRRihz2luJYw.3qrWH-aUC4Mvjmfykto78Z1cKbwRXIht9CmZCpdv7wXqsteET-WnXWKoqt96C1NyiZVfUs8OeqSHP8lmldMbwHA7MlD4-GTIVHDwc2ZECwVPL8CDr_PxhIWnYFs176lP2lsRxZ4kyTMPHjv7oTGhwyc44QaPW7C7nM7UapqTx1xStRlakpkyGo1pAUdftuFCJ8bj25GjahIJfHMJGKkW2fnvkJr72_rmGE5nOc4vfFNIYiEAPlK6b3CkiGkId-VEu6LAqEhzkATcoYMd5SH-ut0ihluJeDf76QiDfaAu9Ck7ClwyHS2_tPD1q2sCQUoQJmN5tEDeIA7fH32AjwGmwW4iM1GGYTuWdl9SBgZv_H_IGWWYtDpLFSKFCdNlqnAbYTAKtOOxd0zkc1pUew8jF7YyPVBDeiIDOVzr6j2-Ltga_C3XamXsoohsdV3fc2TsW4cJ47URXciTEtFeunQqPoovZLkQ71oXwy0w8o68dyhf09VM7p4WsSW64Et3Ls7L8bWX9m0DkwAl5IbIQYE2fE6e5x7rWsJGgCSl_jaK2wtKi8Xtv7zOY-5GshNg23i5-XvXKGHEpXEf6j5MGII46mpgYqhq6ID0jaj2toDPamYKq-2ERsc9PQ18Zq3Eiqzxj_ZIcYHmfRkZ0PEhftY8LhcYNspydX06TJFH07lwHkL1V28K9IItqVVpPmqgWVMrKSh7CRz6q7GR1pbZfR7rMBsoYSkKm4S8a1oZS7QsabnyO1fK41DEsnR5Ohch8XMqmOl6YXQrSk_ioN_ZpECPhj9ZVR8OX0QghbSBFDGT2OgomTqoWN5K8c1e8q16EoETwgaTLMB1r7oms7LXINrfLM0rphkGU13sF-3RtwFQdZQ.EfeJsXHyC7aXIJC81WlI0w",
+  "token_type": "bearer"
+}
+2025-03-16T18:36:33.526Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "x_refresh_token_expires_in": 8726372,
+  "refresh_token": "AB11750876566LtuaQ90kLmqtWeCoVUO5RlrnLv32SiekVKcG8",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..7Xb1ceVqDJJSj9ok-IndSw.ttOZn9ebH334gO_I5O7a2cfpYOld-zb0jriR6G-yWG14gOKSrkg0iI3p5Y2LjdTlK4FFqMqFqOlggW6zcKyFmCTfK3V2n90ltNaafMyIFYAclir96vbQI8-JYODLCfBHll0-wUraPKDf2Z7fMADURtNg7aEQIrFM6uS2jqnrSWBoX2LPysC9uba_c9ODvJ0DK-dgFXmIrD3TSJ5HPzWRAxUvO_hLl0K4MURNsszzL0RUU84D7CVd-vKN2F1yrpIYEB88UpsgmUzhLaIiW3RdwwO1prew7c5rlDGu2FxhpkC0wSHD4UPUCW-qFeh1zWmE7wq-yHxtZKB3LtSK0yQkPkRtCyb_y5hrqJyR98ChR7Kad95CgRKXDitDQ0C7RaxgK4j4FHfZpEaCBV1vsKhJcoikz54AAXjY36tiKvFtTEY9MCuwyprAj6Z0Gy8FysjETDNknF4x3B2xOHm1l9VmQx02VPY6Yv7xuL1i4QR-FIYQK4UVCJR0mZnKjrvhnglVVDT1ics4Spo3UR_B3haNDxQPqvPLdD0_DPvlubPfyql4IagWp2gwAssp1Rzfb2QNa9ndZC_9N68wEp3cdtA3NYXpFw_TIm0dnXa9yB3CCv-yMzHgDab3oal61SXchV6_edqA3Ml4qHm_vs-K0GoIll8jSBczbNuzdq2Y_wbWmv4m6zsEAAHDR5-576z_XSsYopADm4ZWOOWIM5Xztp_FtaeEVKlAOqP9QI9k_D3jmm_Kpqyw3SM-RKfUdq-6RPBz1gWwZwDuvq0bjFjpCNNC07Rmd1n4ui4oUmsMUqlkABjSKhoaz9USK5sFIt5rGYvc1sKMb8kIJlx7MJS6-gjBOl236ADj7bXj2sqP0ifwPMc.rqqmDH5gbew1Isa7Zw4s0A",
+  "token_type": "bearer"
+}
+2025-03-16T18:36:46.539Z info: The makeAPICall () response is : {
+  "CompanyInfo": {
+    "CompanyName": "Sandbox Company_US_1",
+    "LegalName": "Sandbox Company_US_1",
+    "CompanyAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "LegalAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationEmailAddr": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "4081234567"
+    },
+    "CompanyStartDate": "2024-05-20",
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "Email": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "WebAddr": {},
+    "SupportedLanguages": "en",
+    "DefaultTimeZone": "America/Los_Angeles",
+    "NameValue": [
+      {
+        "Name": "NeoEnabled",
+        "Value": "true"
+      },
+      {
+        "Name": "NonTracking",
+        "Value": "false"
+      },
+      {
+        "Name": "IsQbdtMigrated",
+        "Value": "false"
+      },
+      {
+        "Name": "CompanyType",
+        "Value": "Other"
+      },
+      {
+        "Name": "SubscriptionStatus",
+        "Value": "SUBSCRIBED"
+      },
+      {
+        "Name": "OfferingSku",
+        "Value": "QuickBooks Online Plus"
+      },
+      {
+        "Name": "PayrollFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "AccountantFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "QBOIndustryType",
+        "Value": "Landscaping Services"
+      },
+      {
+        "Name": "ItemCategoriesFeature",
+        "Value": "true"
+      },
+      {
+        "Name": "AssignedTime",
+        "Value": "2024-05-20T08:22:29-07:00"
+      }
+    ],
+    "domain": "QBO",
+    "sparse": false,
+    "Id": "1",
+    "SyncToken": "8",
+    "MetaData": {
+      "CreateTime": "2024-05-20T07:22:28-07:00",
+      "LastUpdatedTime": "2024-05-20T08:21:39-07:00"
+    }
+  },
+  "time": "2025-03-16T11:36:48.400-07:00"
+}
+2025-03-16T18:37:44.870Z info: The makeAPICall () response is : {
+  "CompanyInfo": {
+    "CompanyName": "Sandbox Company_US_1",
+    "LegalName": "Sandbox Company_US_1",
+    "CompanyAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "LegalAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationEmailAddr": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "4081234567"
+    },
+    "CompanyStartDate": "2024-05-20",
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "Email": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "WebAddr": {},
+    "SupportedLanguages": "en",
+    "DefaultTimeZone": "America/Los_Angeles",
+    "NameValue": [
+      {
+        "Name": "NeoEnabled",
+        "Value": "true"
+      },
+      {
+        "Name": "NonTracking",
+        "Value": "false"
+      },
+      {
+        "Name": "IsQbdtMigrated",
+        "Value": "false"
+      },
+      {
+        "Name": "CompanyType",
+        "Value": "Other"
+      },
+      {
+        "Name": "SubscriptionStatus",
+        "Value": "SUBSCRIBED"
+      },
+      {
+        "Name": "OfferingSku",
+        "Value": "QuickBooks Online Plus"
+      },
+      {
+        "Name": "PayrollFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "AccountantFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "QBOIndustryType",
+        "Value": "Landscaping Services"
+      },
+      {
+        "Name": "ItemCategoriesFeature",
+        "Value": "true"
+      },
+      {
+        "Name": "AssignedTime",
+        "Value": "2024-05-20T08:22:29-07:00"
+      }
+    ],
+    "domain": "QBO",
+    "sparse": false,
+    "Id": "1",
+    "SyncToken": "8",
+    "MetaData": {
+      "CreateTime": "2024-05-20T07:22:28-07:00",
+      "LastUpdatedTime": "2024-05-20T08:21:39-07:00"
+    }
+  },
+  "time": "2025-03-16T11:37:46.669-07:00"
+}
+2025-03-16T18:38:25.213Z info: The makeAPICall () response is : {
+  "CompanyInfo": {
+    "CompanyName": "Sandbox Company_US_1",
+    "LegalName": "Sandbox Company_US_1",
+    "CompanyAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "LegalAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationEmailAddr": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "4081234567"
+    },
+    "CompanyStartDate": "2024-05-20",
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "Email": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "WebAddr": {},
+    "SupportedLanguages": "en",
+    "DefaultTimeZone": "America/Los_Angeles",
+    "NameValue": [
+      {
+        "Name": "NeoEnabled",
+        "Value": "true"
+      },
+      {
+        "Name": "NonTracking",
+        "Value": "false"
+      },
+      {
+        "Name": "IsQbdtMigrated",
+        "Value": "false"
+      },
+      {
+        "Name": "CompanyType",
+        "Value": "Other"
+      },
+      {
+        "Name": "SubscriptionStatus",
+        "Value": "SUBSCRIBED"
+      },
+      {
+        "Name": "OfferingSku",
+        "Value": "QuickBooks Online Plus"
+      },
+      {
+        "Name": "PayrollFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "AccountantFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "QBOIndustryType",
+        "Value": "Landscaping Services"
+      },
+      {
+        "Name": "ItemCategoriesFeature",
+        "Value": "true"
+      },
+      {
+        "Name": "AssignedTime",
+        "Value": "2024-05-20T08:22:29-07:00"
+      }
+    ],
+    "domain": "QBO",
+    "sparse": false,
+    "Id": "1",
+    "SyncToken": "8",
+    "MetaData": {
+      "CreateTime": "2024-05-20T07:22:28-07:00",
+      "LastUpdatedTime": "2024-05-20T08:21:39-07:00"
+    }
+  },
+  "time": "2025-03-16T11:38:27.006-07:00"
+}
+2025-03-16T18:38:26.317Z info: The makeAPICall () response is : {
+  "CompanyInfo": {
+    "CompanyName": "Sandbox Company_US_1",
+    "LegalName": "Sandbox Company_US_1",
+    "CompanyAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "LegalAddr": {
+      "Id": "1",
+      "Line1": "123 Sierra Way",
+      "City": "San Pablo",
+      "Country": "USA",
+      "CountrySubDivisionCode": "CA",
+      "PostalCode": "87999"
+    },
+    "CustomerCommunicationEmailAddr": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "4081234567"
+    },
+    "CompanyStartDate": "2024-05-20",
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "Email": {
+      "Address": "chrisgouws92@gmail.com"
+    },
+    "WebAddr": {},
+    "SupportedLanguages": "en",
+    "DefaultTimeZone": "America/Los_Angeles",
+    "NameValue": [
+      {
+        "Name": "NeoEnabled",
+        "Value": "true"
+      },
+      {
+        "Name": "NonTracking",
+        "Value": "false"
+      },
+      {
+        "Name": "IsQbdtMigrated",
+        "Value": "false"
+      },
+      {
+        "Name": "CompanyType",
+        "Value": "Other"
+      },
+      {
+        "Name": "SubscriptionStatus",
+        "Value": "SUBSCRIBED"
+      },
+      {
+        "Name": "OfferingSku",
+        "Value": "QuickBooks Online Plus"
+      },
+      {
+        "Name": "PayrollFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "AccountantFeature",
+        "Value": "false"
+      },
+      {
+        "Name": "QBOIndustryType",
+        "Value": "Landscaping Services"
+      },
+      {
+        "Name": "ItemCategoriesFeature",
+        "Value": "true"
+      },
+      {
+        "Name": "AssignedTime",
+        "Value": "2024-05-20T08:22:29-07:00"
+      }
+    ],
+    "domain": "QBO",
+    "sparse": false,
+    "Id": "1",
+    "SyncToken": "8",
+    "MetaData": {
+      "CreateTime": "2024-05-20T07:22:28-07:00",
+      "LastUpdatedTime": "2024-05-20T08:21:39-07:00"
+    }
+  },
+  "time": "2025-03-16T11:38:28.138-07:00"
+}
+2025-03-17T16:56:34.126Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=AByk8dTU59ZIOZy6kTqwdwJLTDZ0n1tQtzPWkBzavOHMmn1c0D&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fcallback&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-17T16:56:55.837Z error: Refresh Token () threw an exception : {}
+2025-03-17T16:57:25.839Z error: Refresh Token () threw an exception : {}
+2025-03-17T16:57:30.108Z info: Create Token response is : {
+  "x_refresh_token_expires_in": 8726400,
+  "id_token": "eyJraWQiOiJPUElDUFJEMDUxMDIwMjMiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMDcwMWU1NC1mMzgwLTNiZTctYTQ5ZC0xZjc2MzA1NWE2NDIiLCJhdWQiOlsiQUJ5azhkVFU1OVpJT1p5NmtUcXdkd0pMVERaMG4xdFF0elBXa0J6YXZPSE1tbjFjMEQiXSwicmVhbG1pZCI6IjkzNDE0NTIzNDExNTcxMDQiLCJhdXRoX3RpbWUiOjE3NDIyMzA2NDEsImlzcyI6Imh0dHBzOlwvXC9vYXV0aC5wbGF0Zm9ybS5pbnR1aXQuY29tXC9vcFwvdjEiLCJleHAiOjE3NDIyMzQyNTMsImlhdCI6MTc0MjIzMDY1M30.PsYjoZD4FkmuBs_a31p9rMNUV8CL1zVA7qXMTs5qhl92sAb4PnhScTn0GVU6-4JxptfKrlGorN4o2FUST3AQ7hc0Wynvp-WlEQwK5yK83DAhQNHRDsMKdtifSwgeVrLtFufbDVxd2nznlbSK0i6tbJMPp2sZIV9a0NTPXzj0vKJwEKdDy8hAykTO3PueSW_ZZZNiJeq9oTEV5u6ZN2ATTdlfQvBqfaIAo93RBoPXYaQSW8V1lUQlsw6Cr6sgHb9DcCE4_iaTSKJwdxL3fJR6OjGqSi7_-UF9_pYZw4hRqNgSQLdGcj8Zf5AyU1OqgWk6nP2U4fsWyAXEbOyxjB9o5Q",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..c-pTNu4jHFthzqes8Rm_Dw.z-LFDviDCWb9-KWATTSoP4hgJEzW5RVAx_muMjM0zd6iaDfY4hFjiuRzlwoZHG-RaqQWIvQ3lbfAfBOMnbi90gsqFlbCwqRvnm4o950_p12t1q6-dp9jRKWkc1NC7ezaFN-a8xHRCRlDxEkn8MU0MVfVLxQZ_gpkFfiwBs73uYidk5UdWBDqG_jyDTIhRyXwclVuIJ1f4Y2G8kR1tCs2mRz8dRhQ47kFM3C9GS1tBkSqwzLdpKZMhUKy_QJPCCkw7nYmDmeX44Du4zwKDVRXbU9OA69n3NtwZZMUUm9bgjW2RS271GT-JMznZQzkWJv_b29GFY481gilp7Cpm8tXKXPtT0RDnDdZP97NYg8C-HQrUkIH7M_sGAV__wvuB3dsma2QCqCnsqLSV3MF8uyuSDtym3nXdeZW_UXEM7Bg4IJdFhQqGNgZFQNFMrIPuIXq18ElxffKtPFSsU8N2wDgZD0_NmZPSkh-auMgAF7AQBaGdyRTq-1erW9ffEQ2WW3DX-9B0U3BhSiEzsEIODkeFzi8iyd7unuSYhEqgX_4C-sAJFJ89qVHX0LFVAFYEp-vrJY3R3igNadhuz_hnG8vIi9IinDWpoZl2WtGv-z9xmWBtMyI_qy_WJRS9uypBndxgNW9fEtFHb-LZfNNgK3vnaY-EB53nik6rpumEVHtcplnRonH2Nsh5LG5Sc8O1wtZNZqGAXVxAutHtRE7Iu4_AIXjB6RZeu7opkqrNSiK26_NMA1-dvgSVJn5XthFc67FNquhud4yyk-HBbbyBB40HlOsuWiz4_Xc7lyK5TlfcGE2RZREuGml5XN8qlGHQaN-xjNvkQG3xe-F8Zk4VExgBzGt48Cex6KOCGFA058ZEuk.VGY_IYmwwsa0GDYbi3AvdA",
+  "token_type": "bearer",
+  "expires_in": 3600
+}
+2025-03-17T16:57:57.755Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..9bXHGnozOnCUwKc4o09LrQ.45nrYsMgzHuGsgNNhJDJJKNOYB9RuhsICI0t1S4U27YhFqLFXoHSV-S-vCP1NCreD_Dhfv9Gj-6i3dHMd07WHolVWlRmo9k_YmwGhagCiKh9uAn8qyr2rL06nnj1GB65epapPtsMyD32mKZnEOWikx0X5JCwJYQiiyE8yieA-cvGxz52pg19ZDN-BJZ6wVQYEEZsdbxfIoum0GaVFy6YTKUcPQJukNRDMVCCk-sPmkZXpNeF-w-2aBWnwl6Yy4kRzdee6XeJmXUQFIGENDkGnrYOD7AfEmBR2R0JCyWJf-fhXqYJUbobeuZsftCcBk1TgBNax8a6ZkDAaxXRHYBTpN1HVLI7o-K9SiYgnMcmdGch46xjffTf3WHM9oMqtC_DHNPhI-6LS1vr77tv5-GeI3M9vAxjiYMTuEj9IEL_70fFjXOzQgCysFkEIwB0gZYGNjlnwjNHyvwiJi2xlDWXnngdF7y9-1teSJ2I5hSZaK1qLLJzRusLOxpbNgmumGALhMm2JMs-oTYkq9s7MCK2HoAWw-nriYh3qbJU7MrsKVPfHN-8B5Q4kJCgMk1VCvTs-nKhII-DJTRnkLT3C0b8wJCj18bgBZ8nlIvk3Rz14DGNMy-EUuj4DA3M8M3KZHxH5OSsEHhfZih9iGw5qqbuhCjoas5EII0IzE0AZV7hWmJRRITgIWoHQDM5eYfyT5k7-Gi5C7IRxg6ZcEZN4uvRKtqu1EjCtqXZRzk-FzWvRlE-STwi-BDcLvlI76cVjAMBkQhcD_vRpmlvch6q60lS2wXBu4NTYcIQAdMRq4d_dL7sH1Hu434QVdas6TH94yay-pORW3oddN5mnjoXnUkZeITl_ZeE1XQGzaQrDf-S0rU._69LzQUfkrJGoGPuLzs3Pg",
+  "token_type": "bearer",
+  "x_refresh_token_expires_in": 8726373
+}
+2025-03-17T16:58:27.760Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "token_type": "bearer",
+  "x_refresh_token_expires_in": 8726343,
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..FtoJjpAoeFdBr_blbp0Ivg.CtJX-MbOhCd_9NCgQ3H3GxVynIDR0tYy9HG_mBIM5IvU20kiRN2WdpfCcQj6L4-vp3foex6XGaRrJiI2u9K01AVr_5NJoum7fE91Y7vkOgt5-oCaGDoOkokFN56w18-albRrIJ8s3beEdSHp_WSUC-ouyaF0D9HkoXJ4KIyZTAqIM9NoSnjYhbRJsIrOLzPkkDbG1V-U_NNZF_B54nB8EGL3JWId3DbOHBoYphqcLiB7P-5uf_ahUuh2bsijRftwBVXqIZ7-NLdLrC-zyWS_fFa6q8DatQOzVH6tDb38nM0JwMHfbpKmEA7wjF4qWXRTKb-PTmbRIhG2TVCoJSnQzBkUNX5qE1hZRZoLQkxAsbu-SIpSTiROlN52MMcko4zSCrTFfCN4eu947JSRiwtsJysbPv-hX10VdMzx1VziU2nVCem1xtbpD1hQxAbkcHhfRe9wJFD5u5lAlfatIgUJ0-a9mMwpHVhdC2pEu_TNBkCL71NRDiSHibOWHdgASJUFX73lQhjZ1-vv35icTJI4sMNKHQlDfvTUcoupqgX_3XKFYrsxLlB2ZXYaj-a4-W0c-QB1jz_80VYzgHLx-EYgktrUCobyAa7cR1Y1v6PDXHyBBIvqCo5qhhnKRDWruZErIvHCGWTd_qxKCW_-J1i1g_e7P8FQUBDvptN-fx2qHMWii7ocAeKLLwSDAWHBMxGdKQRFRFjNhV6ftbMz7vZzxoubcgMWNXyLhNMfUzDR25UH8GKgmqtoBDJoCAXmO2yyUSigMF7DVLFzUVUbEVJ_MaM94gbx_H8ZujqoNWeUFfZ4B_eAnus13ssCWhHYd8tj5XRO-e9YumE1EZotxxlcBlBp3cw9tadLvB-AqDxlhG0.I_XnSfays6QqEuBYuRR44g"
+}
+2025-03-17T16:58:58.095Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..jMzWLNWseLJNbNLcfgUskg.bSzS1hx05zMtNHdNEq3-dhuHdAzLWZM6DiajSmsVedgu8qkqRzDJzcRisGVCI_byJpwDU6ojyq_EF-fc8vCAre3U7ZBNhApNmn-WOF36BkLeIM0tL1B9G_g_aukd9XhTFUra5B8Bpal_heF6eQKlNJfuH8xpdSsDITHEFleKPBYrvgTD6iUpVUJ3FtpH59zAeCeKyblzCfIEpQyqu9qp3Za9ErOolVQdXuo-KNLRB-G4Zo8CsOPwS3-suasEJvlgdrks0qP57Rp6NlOJGdIqEhQ6QNqVhym3foiQ0tm3QWgO2yG8ARHAbFsqXBOZ0jFXqgt3a-aShA-P1nDu9Fi8h8QbdKFM98UhupQOnncujJbK34mBNfkaCXK8rrDqHg1sO9uOyg6UOSjlJE631Iq11BYu1pTrZJmTvqKQYNZOMde7ZESX8e6U4L6oWzChpRYKx9MTsE3uEGtz8az_4_r_OoUUh3YgMTUh346XWP2OJaEa-mXjlsQT7dUcUDg52n4cMe-jXyOnc54giRs_xM5k9fRWJGETwIGJ_BoGxBLo7iGxESyJlZzlftdW3RYewOwk0RSbNVUWXJt5PbbRbbkgto0k9ea8p6vf-mUyaZQCHFhpNP575aOOCVQdmb-b4wRhUyJzablML8kgDEaFRovg80subaZkQj83stVnhj_LTJ3hRWHZyX8psQeMiPJOoNlQDNgOd0sjdhS_lmvp4qwPDvFzdg1q2VkXFySsRqJg5xiJt4cSD2iTeOZS3QyAKm-UP8tXG_dC2fPpErQwvGnprXsqnAS0ZdIdGLxMgdp2O2SKp5MoihjzWimZgtoZOZvU7Ap2J5-AkF0CVLKR1OZIZQakWjD-BuxSFolIxNJ_7os.BCs51QHO6IsX_-fvOFbVbQ",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "x_refresh_token_expires_in": 8726313
+}
+2025-03-17T16:59:27.967Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..ELU50bss7uvWG7YOlU7BLg.ssaPyqvPEWhSMuGTV09aVfFNOwSFYN4WHKwALv0cL39MGqe9Ed-qmBX-9F9GuYlVUja6yZgjcEMCJzKRF2ZEwRuuRsXdTOqZWsBBHIkJ_vhglPoGMyx9EuEnw-QPYNtijzsDVosZfrkmGEfx2aUYCi7AU1-XWyUL3YRpQxgjMgtOhFourlE47PxTFaPnKJQJJCaOY1hh0CYJhv3ZGw3tMnjPe6C-9uC3yTc9bW-4H88M2IAj9WLcU5NcV1x2Bw5IJqncFmCnQ2XOevmV3CzlkC8z6vtX9rU21mI4oZL0jezgkLCiYoF57fkLs5wLStRMozycOCz7R4tpll0zbCQaaXbjtZVyR8zvBWZczv3NwhDtmElGFbJULgqAOwDnhbd--DxJweMoOwVlTN4_4P_Kjtak-kCBWmeAAqGSVuNbGBV2zqLoWtZdoUJ1zZCPSnWRhAa8O_n5fWtpl459lGtGPSYbAm57iLEDq-wEg_Qv1hEQlWUKQ2GbuKAzmiEa9l46-hFXaaNM3ZHZbImE8ClISvMv1HoQU9B1cUVnyeYBeIYX8OqekMt4W0GetDUsGVAl3UPoAvE07nz7j02QgXJUViwHWNtJJ-kTKwAJ_zgGosl96EpBSYtC3DGwxATTfSy76AqDm8f3GtqnhsuAwTSgX-q5EeymCQNK9CbwrXeJuyMJwf4ds0wAsTi4DwNkIhSKHOOGieYV6msZJWnbfEeP78oQh6_pWnWCuxoKLXrq66hujmVKMKKwsxnwA6KIjOVRKJL8g0mQ7B5BdZoZm8UbJUvtL54sMpRUmeyZdLTgSm4tqAKhrayN9SxBls9zMfemYZJNX6753npm8hxX9U44mK9GPKp0lGy9mmCZ-WGVBdc.vOrax6Czx0WiKZkLYcjtVw",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "x_refresh_token_expires_in": 8726283
+}
+2025-03-17T16:59:58.086Z info: Refresh Token () response is : {
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..Z0h77ubbUA3vyJxLg3xNsg.O8niatJRCHx0JNbgJfqR-OtlreHAmzRgz0EG_0W9Est3GJ6PUnPoYhsXntSs1mtDKqTgQBqtrIMfVBSQNNSigMDMdxpvMlYuHrt2QdsVnhr8AYj_k8h4eJhdRJwfyqdLHzmho5z0YIFH4TsRr8fZWadSbaaepk7AWC-2oNYeegtEDZOAq5jErBTc0lFaVAKpm1lIaul3AusGsbpgONfjNBKA2xIWXNZxololhguDGWo5kxAMffPe3BtxCeLT5alu8iz4PHH01R1S5FumKhpbsWINdrvc5NVr-VEGeX38anttZ8jIe-KuYlpqnhXeoz03e5AXU9envIGj3cnVQanl-H_u92AJ0sySIt-pqkfeYUwKr38elpJtxQiHsNVGfTbzJcTY9Qt1upbDmpZg8aieiGwhqtUW3CBdcuIBg0LzEcv7A8aDeEQyzHSlbv60fTciiRemyaIB6sJdeAopj_qdIx3H48pxUhEum4iGUGoytfyszT1VzVKVC92R8U0zSN29KJVJH9mndOPY1Ba3R2G9f7TG5sGnLUfEzkh-5YBYZIZC6pgUp7AC8xXFzAFV1Atap2tOFXmepmFcyEeQylIKlTx8VHIDY3_ziEy_jWVYmCoEqK8li24px1W9SzW3-0CqWy9MHpnV1uyiFZWmxMuziUwbHDVBzaYXl74d0DlrzUUVbZplIx9J7AFDQG9HCvrxQMbZEARP39LrVadEIxM4lokkBi9ZNShwaP0NdKPlggHhUeEvT2KQtpuGuwYowY78kG2zx0AMSoi4bANH69KsezUqs3BSdRL6Dm5AVCy6bCmFDICk_jeeNrxF_55GIlM4WAJDr7DADGBUQ9w8BZ9DK0gon8THqVyuKi-VBM8pNgo.bjZQwVavrtuQTa8hpv77-g",
+  "token_type": "bearer",
+  "x_refresh_token_expires_in": 8726253,
+  "expires_in": 3600
+}
+2025-03-17T17:00:27.822Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..7dSEh_9B5M0toouSfG-EGQ.uD4zSMOKLkfAcYu2M2DQLnXBEojVyLEzKvhLrvif3vn2j5m9zmgbxkdDlB-1_KX6HY_4JVOobPwM_nIAE8WWdIoGWTXSGjLpo5fbTaJviGLmPYS7bhfmT41QsILHUixYMcZOKuBR17VsFaCRiRdYhvwkdnWuDE_9QgNzRIufG07uMLOG0LXF4P32iMDUGwcLQ3za0BFxF3CdjpsNIRz6dXxaoTPjpyFld5QIq1oQfHfBueU6wr7gu2_5yueyLec72osoT1FgaWynSK_lF1kpC3UjULgbQj6hvnpDEjzRhwYdQJOQBKL2v0zV2d4M90OykcWxmuwLGEUWhdOZitOMW4C8h7nkDvgYAKxVzSYdRynF2Ptj_Y_C6YClcePOUCPWQNaX54FNzSRZWLkpmKB8tH-4LFWY3OHL-xmWYmIrm5XnVNE0jyp1tfqQ3vGsqV7pHURjkqMhhhGTBwt8KnrwVqDxnLU-bHX7Ny4MGScR8afKPX9m0iXB0bCESXOM0UDAY8r8veB6y3TgwmOoguHY-oo8dFno8pywA47xDTWzdRtWXXluMaLDzlhBadXCAwkyyKC5zgOrnURcggjH_EdYTqB542kCbH9BbdFZmrPWrq7Sm0WsBPFapkksBtySfXe1UXgWBEBq8L2t_QrILhVWTE-_9J_KCpJVzRXNAcPj7QpigqYW9MHtsnx4yx0R-q01HqBXb4xOIK2ryV47exBDU104KxguDvLIic2swARCQaiOfdarQbsLmRtYVDn7JOcOtZZ72BrvxEOHH-9O1otlzgHAGOA5i8cihWePOrgY4--3wnm-60I87r6SRicHfVrFowododiBEl-nsUsnbEwuz0GhB1rZ-b748dLEvV_DQ4o.RbRMX0b4c3QpdpD3dCrcTQ",
+  "token_type": "bearer",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "x_refresh_token_expires_in": 8726223
+}
+2025-03-17T17:00:58.199Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "x_refresh_token_expires_in": 8726192,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..qWqybthHoWRrCXqfINSSxw.gzNsd6LOFMnVMbTfJZxPMv_nZcTegqJIdo3r_X-Vveul7gzUnbqYIKjKGQDWe7_nFd8nbNp2lbfEvZoeKPL-FQfNmF9GoJZf72nLN2Y693ndoBDlL8sRuzyJOzkQvndPXfAAlTKY5kadq3BTCM7O4MqivpahDjxPKfoijone7ikacPT2L-TVVRHt5U9F0U1IY2LAvygKP9aff7403BauilQPwfjBAL50t6JgMj9XbDLhGU23k0kHUeOtIHfJ5lyMRygcSm_dUkPdGmITYYod2NEwd5YUTRABqn0YKV3oyB6zlyiESdsPLnHKLM5a44rIDFOmrNmnPnSaxR-LZjfXyrMzqlQ9SEo9GjJuTNEumpIHal6qCDwur2L6QRfJuljlGVlDOXzfE87CBWEAI-nIfLxd0KUjq8VY4_0fc7BRimqGznS66wK3idf4Xs9Idl6j6scNAUZCgA2YYv3hec6ylvQXrL_Ifl4uMWMRKeA2E-_fWYoxZumgABL_xXEKPBWRThJNJVMZAhiux8UxVbOnR-SvevUHt_qFdxlUN6wHPUGyxoTXXoN4WNn1NlCRS1jRmhp2bpAyG9ocqkMe3JQpjfFCRNTcy8FgiQzSmrIg4cPVcknL43HsVe62aLWXalX9Ou_hG8lDuY1nccd4gQltQS8I1dC27hgQOZVJRMZCo7RmfcoLqJFK-nsvLU1OSVrDFoxH3owffe6e_sR_Y-tJXuronJ7qy9YMTv6QmBsylo8FRfVdEqA5yyFKkQSYhQPODwMnL8xYy-Wg0Jx3cA2bghLlECljA6njTdunJBH40exuNKf3vjkvxOFo3W-wcR_DrnP0dRRkISzgLU_-poSCxObAaEMV3k7Abwa9cntFHdU.7lJk6ZOjOeZAgqwyoLWRLQ",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6"
+}
+2025-03-17T17:01:27.974Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..aGTjLvdfvWlEN1oDVBuGzg.TN86l6N2Kx0LErYdPOPz1BMBATbkOgwmKxJ1xwdUv2X5-smysGR4hdVpYMAtgzpIU-UUeXgZW9mim2sf-FFEQtxZmbP2zEUCSrUpsPDpNSaXbds-oBj8JxiSS0OrkILLJii8Xl1xbBXH6s9mldCQexF7cTlCt3CkajjtXkw8eJwXZl9cogKhtebX6lDjaVMiVW475xyB2VTbrQQZcrihOaCIZonRLwXnG_v7Mw72criBBpfHzicEVQ_uvIDmhM70p63eNpnQ3zQh_1qyQ2P4K_aWVVl2bjw5ujqzu6kGdoodK2WeC3cyE0YUapJZlHWefjuTiRVsN8OgFcJBzOMVbTrSqoNqtVa2IKpZE-TtSbxbq3fwO5A-30IXX2G_OjiuGxielJZ6tofpph7KcelhKwm18wMhi6CG_9LQ5wDm_u-caPuD5vA93mJy0DbQquZyT5VEi8fkuQjg3CtKeTOFSzF_nLEkr5LyN7vlYnUXKDSw-CegJDhH_H7V_KRmBqoEJVKlI-eRrs45hX23bGUDIq2gcwthaOavltTrpNk5x4I7_iS3Ab-p3ub4WgUpY9ztI2lweM4xJiCSKMTPLMGBU9_WVfcCP1byY-i91BBCJSIUQ6nyigAY70fBrvgr2LleijAXL8GNs8Ju4HaGRY-UCE5ym1KJaNciQgESwtjhRbnWxZdFv4kx31U1mXfcGguva46V27EAQmJbJJORS8qMKCUVq39js4U1giNhYnOlbQVqk04OC3SwwHJgj_gKivWq_Y-z2i9lcCsQ6FMH-w8GGpaCCv6VzgplwhxJP0PtRKKm3aJajoqq5U4VMmfWTQyZbve7BhV12AQXAPy0vBBhV37FFtLNfND9CVD6Fk73BbQ.jCppf5Wd8s54vndbiF3-Ug",
+  "token_type": "bearer",
+  "x_refresh_token_expires_in": 8726163
+}
+2025-03-17T17:01:57.822Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "x_refresh_token_expires_in": 8726133,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..IaYr6J7eqIznlYly1tVD3w.fvNEK4NBRyk1zitEm5nxNFMuQeoK6WpsLJy890OJRlPmzV01LxfxUZi0gQL3K5bS2wzGTmBlK_X99n4RYND_OP6A-OQ_dTUPy9owpHdg-O188vWHhdpTWRLSBIYHGKpzNb86Gefwjd_3oWZAg5srz-0kUXEWZuCqxByZJ1rT_6E3v0BlcwOKtIvF30fyF4MZ0tRpyMCqE1XtQMd4Ndc-eVbpCMyvO0FLIfQkeOFhk5kThrxGeQfVhjyXOwl5JJnvlIBqj1NRwso8XevRjkEL5phogNy152-PqbJND5fMurV_MsuDro_UZh-Q60iesIYpRje-5CQwFV1eo-6gxwwBzmL_90a693urmXws7f0p7VBz5dU8QsJcgCKqCfHK18Vp_46NyPpJ3Rkr0sUKOjNE61CAESdXvJHyvsbNysQPk-ipTWkJ6nJCeDbRGSx6t3AD1pa0fn_ljRGWe2f1iFXghab3CCr8ktQR-cmlHiAHk95FiNtfTHUgeXbjdM0wmfO36nX93Kw_MnwT2cfmKU7JVX4V_4COwWOqAt0b_yxl1QOH879N2thKeTauMm6hWecqubZsIhOmt7uyMVnIkat3RqUuo6RpET5mdaMm4BCiG8wJd41l1iz-jXFS8Rk5ry0RRS22fSoEgOzuisJNzeyeioqmFmeNi3NE_2pDXv4W4LMBQGM878tgbXGFHXtMfWgRdstcANHQMgY7cZgmGfpbFkHwnKf0a_1E9G2seuSvVhKEJLhXP3xOvhYfd_ZMgLIAQPqh3LFJYeYAgP0IPGBOTxTEKkv0dPuvsy_bs_fWrdXGu-voxKLY9IqLpJgnPqsIWZUjPKjz8n1C1uE9hxyYjMVkSRVsGHaBO2dpjzZHlUI.GvZZv5_uIFDFnRpDkXnsjg",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6"
+}
+2025-03-17T17:02:28.109Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "x_refresh_token_expires_in": 8726103,
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..y-ngYEbtRswDElWsp7snQQ.TUlb0jb9P6cF4VEhBpnreWQJ8pfhzKqd4ABYQZ7QaEY6xMisds9-t2kZikqGN92Fch4gvOlHhGuvmERmNc5oYPcc4Wx85wb2IRqgL9OWR4m_lkb7aT4-a30GhexdAngIqWiwxhKs4feBoaseZFEz9GEYWUbFxYFhum4uguJFYo4WKQGbPI85TlFHBaJTS0zSKPBmDs4jMTNu43bjFUEawvXwuhHeN9jIBEm-wZHsJTde1_dCNcrVC-WrmmYkYZizMqPlMBq-2jKqCKZKh4Znnz54QyKIc4V1Yrm85uYl-f5UBoeUE0AUxqdyDAsvdK2ioHVHOy84J4-cvjtVnx64ehlHqvWPXHUinfL4pz9Oy9dVGmapWsPrVkecPWop9y77m9zwI3R4iVTa7pUQHcYgf9aysXrcyiZcYT6EY0BWh67mdQZbHHEPgY6xze_OnOh8ouohOfCV2h2dyFvX4WYhqyBJD7di_AuxTANEEWSUs3rU6E54DL-1mtZLCV9wfC8Ly8gA7BMvgLcR8j2nZtuYFvcQsc4eKla7wqzmEEsCHk2EPKy-zkpg1rGNsRcutaduB5-Cu8rHf-zRtpoYgkSc1vQ2dkHQsT-Moh_L37TK2agr8qFvwaWqzYfmJpMeZEU3aZ1HkhhEt5sSrWrRF6tl4OINXyanWcvhu0RT2XCrv9SLtMjY69fwHMEotHPeEdiSruF7pIrUq9HSYy7gEb5cKs93Yib9vinOTMc5TCcWMgkyyTxew7HO6H7ADIR6k9XBqDqrWmc99cjIBlJ6rwmRFaQtuPF2AZMRXZ-GVBx3yjnGdIbWpBPwLMEF8Ntg1X3jyQ41u5uta2qNiRGIvQSiBUpmnYQrE2Jy8aYky6teAsU.f3cZF8VTI9tw3LYXrSdL3A",
+  "token_type": "bearer"
+}
+2025-03-17T17:02:58.108Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..FlsqnFKHD2-XFqonNJM8kA.M-jVG0CLA2V3O_cMWA_QW_qd4IyyFI5TUID4Yl50CyzMcCd2_rE5YkVEKkEEXUCcPlzZgIdGcCJmwkGV8qMDgHFYE1LufQOaL3JMoMogAC7KwfTbtNsgIG99j4dZQeA4JtnKh0pTCbNvYfiXYeGRfBWr0Cy8oBMBMSuq1lT37fwmmHXTVhSfhWNvMSanLPJvngyU12PHzaz8saGAaWg0j97CTuM6nOGiaEV5GeO30Tcl9jy5gOKj-QDM6R7BKT-hKW4ve5m6xJhmSR4cpMgVKYrGNCf5MKOyslvyfED2idEosJQgBxgyXgtflsYaZzRUbGfatUGwE_wXPM_o47ZflvgIaOlCw8KZWUey6QVZQLvfO7nEpQpEsX7jWBo5yHHE0ynUgjPDQk62R5JS0c1OvGgR8SQLcffnTZpALy77rY6JAkRKHgUykgz0JUINeCqUCWIbllmsatNOsw1C6OYcs3H9j5UixkpHe_n5NWSAGvMoPTs7crzuDiMUA52XqdBeBSRVJRfe13E8_SPoYu1vRCI2aUNxTGCZlKKjbRcNBY2_gg218ISfST4APwkLxNlxZYs2EEAuzSEkNXsyxfyDojNwvShM9v8ndOtm00lDuYKzgICi3SSKH2jBr65cwREJUlkugfywuBTMIgtQO7riOxBLLeVwEV8o266p4XO3BjN6YnhBT0xQYbhdOeUrTWkUdQ-BxaUpxytMf5igG3jLaw8tPXSH2274uY251bgvyJCwrs6BGQ5RBtbF6ssPmpERSEM_iyfLhWyWAT-qYhow5pN-257Ql6f1_02b2-1HLnAiPp9p7Qt4p4lnlE6vvzwRIyFxawbjdeKJ_1DoP8vK8GQ7vIcYKD2BFRGM7xbWhH0.G9pPJi0yG7pOgsbcQaltew",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "x_refresh_token_expires_in": 8726073
+}
+2025-03-17T17:03:27.845Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..nQejtZs-JLLOYghieM8J4Q.onha3McBsT2RvUAZ2b0E7xepM4J-k633gkRROZ66xJjFA9mMwiynrDjFyhNvtT01ofrwGtctxDvxlJPp79IMwz0w0cm0StqyK0Xs6BuOS3NLT3-8uWPCx4N3-addmMjeFB-n9QJwkS3AE7R3-N13UyWfBKlFvDXqeFihpgMT9_kFpoxOaN7dUtXuq51HM2orv5W4eLzU2egdBFHnaPpAxlhMBS8ouBkxWnKgNZLpnv2zcwsQ28c46HdXvlLRi89RlUYLBk-CGMCCigTADE143ab3n898CzEhVd7sLgnsrzhVx_64OnB9eTFNoPE-44mRtwzQeFn9T4sDM6mijL5osHw-JnCiVwRqv2BIPncCg4JPz08jWb1UO-DxpWMPzokqWYlRNilpFhtKgMlC3TFtcJa0SgTEon1uom6GCDamoI3nIX-6k873hBEbk_unW3LHXSPz_MUX2g_k7LFtblENM48hGojMJlg7TrkPB93bhAbRZgGihU2wX4dIOxpyczULpwrMQqGXT8_TOwz-6VkH3j3uqgEbzzOW7mrCjr2lS_chFVNYvRE9fYu5s71IA8s4gJHbhj-F2gfKUNcOxumlNBJ2sqTZg7mA63VDrl_1MQ-s_RoKL0lgS6jBXjP2TtpDIrv-6c66jZu53MqXTUFF_svWt6Wi7NpLpTf8lUZgFBtarwD8VlIKP7i-3GW69fdsoDVoKLnQ5Q_Ph_8TJo8vQ2v232LZj-1htHugv17ZAQn_oMJUAC9hPkfMWR89g0Qchj20WIOPR3B2ZxvwQLrfXokq05G_Nn43bR79DTpvoATVnTYvujH_SRI9SQPUtX-Lixw9CmVxqkz7GuYsHhpuJr74yngUoBDLTkxxKFyPKcg.frGhrlgcN3A2HpWwNcCZpw",
+  "token_type": "bearer",
+  "x_refresh_token_expires_in": 8726043
+}
+2025-03-17T17:03:58.141Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "token_type": "bearer",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..dWhhVPbmhJHJQ0xdUvKJCw.HOSOBW9tFVFi_oY93EOBkRbA8TUQx3zNKqYKnHme_DVJq_0rDkYYJ2r5e2BBaatI-cgLKfMFwTiGaYR07GKdf48SD1aOPxn-AyyL26Zpjwt_JrsZOXAHUm1jZne_vSSLtQESDBIdYXOJlgDhxjU-7U36q7SvEWECGXU3MxqJug6xrQEwozGV-PfBvlZv6b2EOn1FvGz4rZi9iakKLeVvbbGvR4VIGXaFWiIqWddXRajL7ppNHOyTs8vF4u3DxycdDVx2Q9emZZUbCV_Dgo3BxGIf8-io0Y-rI1s_Gz5N3KVCBiYBByU8HtS9mbL4lT47i9ytbQfll6GypcbkO3pqYUJsCc7EudhddDT3CwakCue8sfuYxhtPS6IAWEzATRTSfzn-vjdqCABPSc4FliuQkfHJpwuXwJ9PWMufaQlI4pB_ZCpInwpY52Ha7fyGev5noQdbbziLJ3Tymy3Wfp3kD899DvP0IhD5cp7IBWZ4YvCFWK597qgrMoKx29lnZWIneiR_daOmXaG7NhNoNXOReJCX06ORYRgPn0G8UaoOmdvJjuNI-MR6w73T8J97EKj4zw5vDo-LH737EqBxVWusCKVhu5pdyw-ZSfbk53XkFFXTIXTRpTdB80tXKTXcGDPYixo05x3ojHfhoP-vuipvvfyur8dKKfAHQT9SJvHQ2rER6wYNUJHwsljjGNcRLuGbio3PsgfAEF2rHtgolLfLfImZSkBYLGAyq6PNFc8PnPFcr3yZMZJg_6WwYUrvUAIYbPzicoUzPaWpupHF2GBw1XaKcnjDpdxEkkQy_d65qIodaElFIjv1Fxn3zsxp3yUmT9z5o0EFBGYVV8T9cB9BvYtZDhsX-HOLnb78pzatjmY.HNGMyEIKzC2x4aQVclQTFg",
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "x_refresh_token_expires_in": 8726013
+}
+2025-03-17T17:04:27.847Z info: Refresh Token () response is : {
+  "expires_in": 3600,
+  "refresh_token": "AB11750957053S7NFUuK8wBDPOm3989ALZpURNzXRcVd15bVE6",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..RhxmQ7QQfA3Sih8ZMOXCWg.jkC8kf6r0_WWEjicGOFhWw56RaGxcwHbON9a7Zf8Lx5RYVi3H5d1vLUsT7hAE9GVfs-VJ1SuDG3Q82Pf-k_1sTPJnmpL9rQFtxf6W06I3eElMo_cnVN5xjWieZ899WvbXnHuHbAnAz4ifORJqB74pLv_eihvJP5kWIn9FNS2FH7kexzmwla-UGX9cUufyKyH9fq-FcT7C491vL3W6dgGbdEoMQ04eqLlDHV1yeY1QLEGbW5p5o3C9JtJBMHJMEAbKr4Qwiotc7KB4AvEuCu3YhuD37uB3fKo0b1WijJpQfAUu7dZ2rmYCVIj_jnkzFHjX-8gCupP6pyvoLyDEAVvSccazWQgkgpcED3YSisr3HboZd_Q1LlO5_TWaHdSxptmT_ToJ7BD2sH2W6kVS5ATvyMpW5jdsbg3lGtZuWnJv-BnDs6f1rBO70fQGo2ZFdCpI8zEnrLqAgwMTlln-iC9kESsnu5gQC-APawvlzu-b0x18lSaVwQ5sGP_PYFjbJppu2LUs8uyGAc8_fJe3C3vZape2VnsUhw4DpTKA4xinpqBofkWFnTCsyjAprrj6nkY8o3wZszlBhXQVrYucPj9ivy4BBOGVCFAUk7knczyJ00-3vOU6DGCTVKzVce2HutdpU1l44i607WwRZmWo7HjOYOs00Ljs0t1WrAx7pXLK_rUJ_Rga_EXWIyUSXxXhPWC6qCp2msAA3ONii8MrC88OniTIz8BacyUjqQjr9oORa_Qvpvk7f2rGddcklc5td4NELdwn2PYzDvmzUxDxUwCwfLJBKksKJyIL2emd_Lz8VpqjXdrO4mcnSXUniWy9SQD6NRbXCGbJgUcxPHq8xjWQpr8ry4fghK3oUxSYhm71G0.k8OpHEucbirUhBB18dGxRw",
+  "token_type": "bearer",
+  "x_refresh_token_expires_in": 8725983
+}
+2025-03-17T17:12:11.576Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=&redirect_uri=&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-17T17:12:32.800Z info: The Authorize Uri is :https://appcenter.intuit.com/connect/oauth2?client_id=AByk8dTU59ZIOZy6kTqwdwJLTDZ0n1tQtzPWkBzavOHMmn1c0D&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fcallback&response_type=code&scope=com.intuit.quickbooks.accounting%20openid%20profile%20email&state=intuit-test
+2025-03-17T17:12:42.426Z info: Create Token response is : {
+  "id_token": "eyJraWQiOiJPUElDUFJEMDUxMDIwMjMiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxMDcwMWU1NC1mMzgwLTNiZTctYTQ5ZC0xZjc2MzA1NWE2NDIiLCJhdWQiOlsiQUJ5azhkVFU1OVpJT1p5NmtUcXdkd0pMVERaMG4xdFF0elBXa0J6YXZPSE1tbjFjMEQiXSwicmVhbG1pZCI6IjkzNDE0NTIzNDExNTcxMDQiLCJhdXRoX3RpbWUiOjE3NDIyMzA2NDEsImlzcyI6Imh0dHBzOlwvXC9vYXV0aC5wbGF0Zm9ybS5pbnR1aXQuY29tXC9vcFwvdjEiLCJleHAiOjE3NDIyMzUxNjUsImlhdCI6MTc0MjIzMTU2NX0.UsmBT-Jl1-6UrMtnls4BV-AdDRjLubMG-KrD1_M_M7Zr9e_oLxNTRUVpRtKSPsdSV5UNuzLFGpH1_NB-b_3ytNGTTcRecLvprCcDzambMVaLKfD0If5aLEZupiw9eIZhoQrs998UhfehKhNcNEDGCbTJWw8rD25Vi5YRGQUog-R8matt6PJk6pxG86dcuQsulCsjWtptN0UO0QFcx2touW3dLqAMyeCdR6f84HCE8zInSbtoLIedbDy0VZIoA10gY-HAK0GYq5i_2UY0akXDa-_2ZfvQWrMRnisjEN7xez07sHXEkbBJcMRBB9EDxBeQWXabme1-n7z-y58MuA2bag",
+  "expires_in": 3600,
+  "x_refresh_token_expires_in": 8726400,
+  "token_type": "bearer",
+  "refresh_token": "AB11750957965hyXUMfCBMpg3F5Zo6MhldbkmdYyZd9R0DyReO",
+  "access_token": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..cuOY1xRBgnkrEMgf5mB6Tw.pTMTgeqrq65m311d3GhlmeZMDPgSVCT2bRnYYq3DUacdmOfflOdoqS-bo0zeApVEyQCB1IIbbJRkEGA5Se3PCl12KtzSvaWvE_ggxnMxjA7SdJGkX47ACJoDZG7znqxnbRgAv7Xh7MwcPmSRmZnWvjqND8zjZbiuMw8G1SETSk2fozuqccQ005ZQ8rORxspf1U804na_VivZk4P6jlohG-DGEUCC5-2K60--OYNFmCNMIHg79Qz200pVBM_iiXXGkrGv7CCTJeE99VrEMNR8dswOD8YnjLkH2K5kb-YNEsZDZocqhDfcAaRZGBEFQ2dJuOygnYKYfBISfB6T8_nMMaSbgX4Z9eS6iYzBqdG0-CfAC2XNj_q862Rz3t0GqScpvmTy3iQOs5QqYgS-4YWVe7Xf-YdlK9aOeypzPU_y8kBzjSaqBZCYnP6HMNAvGO_QAxNhC5V78Aak5G700k2BInr7rI--1Ii4-es8BwcRjYNosEP9HJnzdboQnuuLpYiJbzIHOHsoiU3uV9Gx0KOlttElRE3hCJoYkKcMIjHk0Ck1FZ_ZfVGyjDwmjn3S1a0CbQU_JY3ALRMzUvgxoiIckspgolQGuqGHdLJMC7INLB44y4_ddKP_PiPuYS0YueniMgKz8oJ-ZVEPVR65YrYFNMHCK-qwGpo2L50Jbb6Jvq7NU8n1GFPQI7_aEN-gQobxSWXNlHmCXzpPItWXDVd1As5iAv6S3C4_bqDfVaCtQDmeVjwZBqXQdxVOgNG7_47sxhwCzkl8U28j7Dfu5vVYTW5uH9tfTN02lmitMyZFbDCv53203LH4rUWKk1LLrGY_3jvX3zaynNAnGwlQNNGKsZTVE0mr8d_DexE0HBnxkYA.8mhrKFRJstni4b8J5EDJcQ"
+}
+2025-03-17T17:12:47.775Z info: The makeAPICall () response is : {
+  "Header": {
+    "Time": "2025-03-17T10:12:51-07:00",
+    "ReportName": "GeneralLedger",
+    "DateMacro": "this month-to-date",
+    "ReportBasis": "Accrual",
+    "StartPeriod": "2025-03-01",
+    "EndPeriod": "2025-03-17",
+    "Currency": "USD",
+    "Option": [
+      {
+        "Name": "NoReportData",
+        "Value": "false"
+      }
+    ]
+  },
+  "Columns": {
+    "Column": [
+      {
+        "ColTitle": "Date",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "tx_date"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Transaction Type",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "txn_type"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Num",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "doc_num"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Name",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "name"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Memo/Description",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "memo"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Split",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "split_acc"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Amount",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "subt_nat_amount"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Balance",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "rbal_nat_amount"
+          }
+        ]
+      }
+    ]
+  },
+  "Rows": {
+    "Row": [
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Checking",
+              "id": "35"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "1201.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Checking"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Savings",
+              "id": "36"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "800.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Savings"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Accounts Receivable (A/R)",
+              "id": "84"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "5281.52"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Accounts Receivable (A/R)"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Inventory Asset",
+              "id": "81"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "596.25"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Inventory Asset"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Undeposited Funds",
+              "id": "4"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "2062.52"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Undeposited Funds"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Truck"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "Original Cost",
+                    "id": "38"
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "Beginning Balance"
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": "13495.00"
+                      }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  {
+                    "value": "Total for Original Cost"
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              "type": "Section"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Truck"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Accounts Payable (A/P)",
+              "id": "33"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "1602.67"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Accounts Payable (A/P)"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Mastercard",
+              "id": "41"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "157.72"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Mastercard"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Board of Equalization Payable",
+              "id": "90"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "370.94"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Board of Equalization Payable"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Loan Payable",
+              "id": "43"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "4000.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Loan Payable"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Notes Payable",
+              "id": "44"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "25000.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Notes Payable"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Opening Balance Equity",
+              "id": "34"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "-9337.50"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Opening Balance Equity"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Retained Earnings",
+              "id": "2"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "1642.46"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Retained Earnings"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      }
+    ]
+  }
+}
+2025-03-17T17:13:36.461Z info: The makeAPICall () response is : {
+  "Header": {
+    "Time": "2025-03-17T10:13:39-07:00",
+    "ReportName": "GeneralLedger",
+    "DateMacro": "this month-to-date",
+    "ReportBasis": "Accrual",
+    "StartPeriod": "2025-03-01",
+    "EndPeriod": "2025-03-17",
+    "Currency": "USD",
+    "Option": [
+      {
+        "Name": "NoReportData",
+        "Value": "false"
+      }
+    ]
+  },
+  "Columns": {
+    "Column": [
+      {
+        "ColTitle": "Date",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "tx_date"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Transaction Type",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "txn_type"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Num",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "doc_num"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Name",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "name"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Memo/Description",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "memo"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Split",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "split_acc"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Amount",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "subt_nat_amount"
+          }
+        ]
+      },
+      {
+        "ColTitle": "Balance",
+        "MetaData": [
+          {
+            "Name": "ColKey",
+            "Value": "rbal_nat_amount"
+          }
+        ]
+      }
+    ]
+  },
+  "Rows": {
+    "Row": [
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Checking",
+              "id": "35"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "1201.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Checking"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Savings",
+              "id": "36"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "800.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Savings"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Accounts Receivable (A/R)",
+              "id": "84"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "5281.52"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Accounts Receivable (A/R)"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Inventory Asset",
+              "id": "81"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "596.25"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Inventory Asset"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Undeposited Funds",
+              "id": "4"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "2062.52"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Undeposited Funds"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Truck"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "Header": {
+                "ColData": [
+                  {
+                    "value": "Original Cost",
+                    "id": "38"
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              "Rows": {
+                "Row": [
+                  {
+                    "ColData": [
+                      {
+                        "value": "Beginning Balance"
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": ""
+                      },
+                      {
+                        "value": "13495.00"
+                      }
+                    ],
+                    "type": "Data"
+                  }
+                ]
+              },
+              "Summary": {
+                "ColData": [
+                  {
+                    "value": "Total for Original Cost"
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  },
+                  {
+                    "value": ""
+                  }
+                ]
+              },
+              "type": "Section"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Truck"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Accounts Payable (A/P)",
+              "id": "33"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "1602.67"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Accounts Payable (A/P)"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Mastercard",
+              "id": "41"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "157.72"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Mastercard"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Board of Equalization Payable",
+              "id": "90"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "370.94"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Board of Equalization Payable"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Loan Payable",
+              "id": "43"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "4000.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Loan Payable"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Notes Payable",
+              "id": "44"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "25000.00"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Notes Payable"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Opening Balance Equity",
+              "id": "34"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "-9337.50"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Opening Balance Equity"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      },
+      {
+        "Header": {
+          "ColData": [
+            {
+              "value": "Retained Earnings",
+              "id": "2"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "Rows": {
+          "Row": [
+            {
+              "ColData": [
+                {
+                  "value": "Beginning Balance"
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": ""
+                },
+                {
+                  "value": "1642.46"
+                }
+              ],
+              "type": "Data"
+            }
+          ]
+        },
+        "Summary": {
+          "ColData": [
+            {
+              "value": "Total for Retained Earnings"
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            },
+            {
+              "value": ""
+            }
+          ]
+        },
+        "type": "Section"
+      }
+    ]
+  }
+}
